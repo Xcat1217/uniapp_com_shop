@@ -4,5 +4,7 @@
 export default {
   swiperImgs: [],
   catItems: [],
-  floorData: []
+  floorData: [],
+  leftCategories: [],
+  rightList: []
 }

@@ -16,3 +16,7 @@ export const reqCatItems = () => myRequst({
 export const reqFloorData = () => myRequst({
 	url:'home/floordata'
 })
+// 获取商品分类信息
+export const reqCategories = () => myRequst({
+	url:'categories'
+})
